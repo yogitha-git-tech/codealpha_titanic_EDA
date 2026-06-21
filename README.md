@@ -75,4 +75,4 @@ This EDA project provides valuable insights into the Titanic dataset and demonst
 
 👨‍💻 Internship
 
-CodeAlpha – Data Analytics Internship
+CodeAlpha – Data Analytics Internship 
